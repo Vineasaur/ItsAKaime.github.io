@@ -1,0 +1,114 @@
+body {
+	background-image: url('http://wallfreedesign.com/wp-content/uploads/2015/07/Blue-Light-Wallpaper-Abstract-HD.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.inline-cards li{
+	display: inline-block;
+	margin: 25px;
+	border: 6px ridge #01579B;
+	border-radius: 8px;
+}
+
+.inline-stream li{
+	display: inline-block;
+	margin: 0px;
+}
+
+.content-header {
+	margin-top: 180px;
+	margin-left: 180px;
+	margin-right: 180px;
+	margin-bottom: 20;
+	height: auto;
+	border: 12px ridge #01579B;
+	border-radius: 8px;
+	background-color: #F6FCFF;
+	text-align: center;
+}
+.content {
+	margin-top: 20px;
+	margin-left: 180px;
+	margin-right: 180px;
+	margin-bottom: 20;
+	height: auto;
+	border: 12px ridge #01579B;
+	border-radius: 8px;
+	background-color: #F6FCFF;
+	text-align: center;
+}
+
+.blog-post {
+	margin-top: 50px;
+	border-top: 2px double grey;
+	border-right: 2px dashed grey;
+	border-left: 2px dashed grey;
+	border-bottom: 2px dashed grey;
+	background-color: #FFFFFF;
+}
+
+.project-card {
+	margin: 25px;
+	border: 10px solid black;
+	border-radius: 4px;
+	width: 128px;
+	height: 128px;
+	background-color: #333;
+	color: white;
+	text-align: center;
+}
+
+.project-card p {
+	margin: auto;
+}
+
+.nav-blue {
+	color: #FFFFFF;
+	background-color: #03A9F4;
+	border: 4px outset;
+	border-color: #0277BD;
+}
+
+.footer-blue {
+	color: #FFFFFF;
+	background-color: #03A9F4;
+	border: 4px outset;
+	border-color: #0277BD;
+}
+
+.header-blue {
+	color: #FFFFFF;
+	background-color: #03A9F4;
+	border: 4px outset;
+	border-color: #0277BD;
+}
+
+.rnd-btm-rgt {
+	border-radius: 0px 0px 10px 0px
+}
+
+.rnd-btm-lft {
+	border-radius: 0px 0px 0px 10px
+}
+
+.rnd-top-rgt {
+	border-radius: 0px 10px 0px 0px
+}
+
+.rnd-top-lft {
+	border-radius: 10px 0px 0px 0px
+}
+
+.w3-topnav a:hover {
+	border-bottom:3px solid #FFF;
+	background-color: #B3E5FC;
+	color: black;
+	padding: 6px;
+	border-radius: 6px;
+}
